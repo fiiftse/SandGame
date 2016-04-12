@@ -1,0 +1,17 @@
+/Users/fionatse/Documents/School/Classes/COSC 499/SandGame/Temp/bin/Debug/UnityEngine.dll
+/Users/fionatse/Documents/School/Classes/COSC 499/SandGame/Temp/bin/Debug/UnityEditor.dll
+/Users/fionatse/Documents/School/Classes/COSC 499/SandGame/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/fionatse/Documents/School/Classes/COSC 499/SandGame/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/fionatse/Documents/School/Classes/COSC 499/SandGame/Temp/bin/Debug/Mono.Cecil.dll
+/Users/fionatse/Documents/School/Classes/COSC 499/SandGame/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/fionatse/Documents/School/Classes/COSC 499/SandGame/Temp/bin/Debug/Unity.DataContract.dll
+/Users/fionatse/Documents/School/Classes/COSC 499/SandGame/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/fionatse/Documents/School/Classes/COSC 499/SandGame/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/fionatse/Documents/School/Classes/COSC 499/SandGame/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/fionatse/Documents/School/Classes/COSC 499/SandGame/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/fionatse/Documents/School/Classes/COSC 499/SandGame/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/fionatse/Documents/School/Classes/COSC 499/SandGame/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/fionatse/Documents/School/Classes/COSC 499/SandGame/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/fionatse/Documents/School/Classes/COSC 499/SandGame/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/fionatse/Documents/School/Classes/COSC 499/SandGame/obj/Debug/Assembly-CSharp.dll
+/Users/fionatse/Documents/School/Classes/COSC 499/SandGame/obj/Debug/Assembly-CSharp.dll.mdb
